@@ -1,13 +1,11 @@
 ### Hi, I'm Tan!
 
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+  <p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 </h1>
 
 <br/>
@@ -47,12 +45,12 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45#version3"/>
+  <a href="https://github.com/levantan124/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levantan124#version3"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/levantan124?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
@@ -63,7 +61,7 @@
 
 <p align="center">
 <a href="https://github.com/levantan124">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?levantan124=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
