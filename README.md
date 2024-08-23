@@ -1,14 +1,19 @@
 ### Hi, I'm Tan!
 
+##### Connect with me: vantanss1001ez@gmail.com
+
+
 <h1 align="center">
   <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Le+Van+Tan;Freelancer&center=true&width=420&height=55">
 	</a>
 </p>
 </h1>
 
 <br/>
+
+
 <br/>
 
 <br/>
