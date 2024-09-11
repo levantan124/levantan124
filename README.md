@@ -2,7 +2,6 @@
 
 ##### Connect with me: vantanss1001ez@gmail.com
 
-
 <h1 align="center">
   <p align="center">
 	<a href="https://github.com/Bouaskaoun">
