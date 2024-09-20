@@ -1,6 +1,8 @@
 ### Hi, I'm Tan!
 
-##### Connect with me: vantanss1001ez@gmail.com
+##### Connect with me: 
+##### tanlv1001@gmail.com
+##### vantanss1001ez@gmail.com
 
 <h1 align="center">
   <p align="center">
